@@ -1,0 +1,10 @@
+# Required Python packages for reproducing the experiments
+numpy>=1.20
+# Gym provides the reinforcement learning API
+gym>=0.26
+# Stable Baselines3 supplies baseline RL algorithms (DQN, PPO, SAC)
+stable-baselines3>=1.7.0
+# PyTorch is used for neural networks and the BNN
+torch>=1.13
+# Optional: matplotlib for plotting results in evaluation (not used in training)
+matplotlib>=3.3
