@@ -3,10 +3,6 @@
 This repository contains a self‑contained implementation of the
 reinforcement learning framework described in the paper:
 
-> **Task‑Specific Uncertainty Maps and Bayesian Reinforcement Learning for
-> Autonomous Navigation in Unknown Spaces**  
-> *Shuang Yu, 2024 IEEE Access*
-
 The goal is to enable a point robot to safely navigate through a
 2‑D grid world with unknown obstacles while balancing efficiency and
 safety.  The implementation covers the key components described in the
